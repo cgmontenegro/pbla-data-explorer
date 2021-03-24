@@ -20,8 +20,7 @@ USER $NB_UID
 
 # RUN pip install pg_config
 USER jovyan
-RUN pip install psycopg2
-RUN pip install openpyxl, Unidecode, textract, wordcloud, nltk
+    RUN pip install psycopg2 openpyxl Unidecode textract wordcloud nltk numpy plotly chart_studio
 
 # RUN pip install jupyterlab-git
 # RUN conda install jupyterlab-git
