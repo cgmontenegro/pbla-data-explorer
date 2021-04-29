@@ -1,0 +1,666 @@
+SIGLA_INSTITUICAO;NOME_UNIDADE_ENSINO;ANO;SIGLA_UF_UNIDADE_ENSINO;NOME_MUNICIPIO_UNIDADE_ENSINO
+IFAC;Campus Cruzeiro do Sul;2011;AC;Cruzeiro do Sul
+IFAC;Campus Rio Branco;2011;AC;Rio Branco
+IFAC;Campus Avançado Rio Branco Baixada do Sol;2014;AC;Rio Branco
+IFAC;Campus Sena Madureira;2011;AC;Sena Madureira
+IFAC;Campus Tarauac ;2013;AC;Tarauac 
+IFAC;Campus Xapuri;2010;AC;Xapuri
+IFAL;Campus Arapiraca;2011;AL;Arapiraca
+IFAL;Campus Batalha;2014;AL;Batalha
+IFAL;Campus Coruripe;2014;AL;Coruripe
+IFAL;Campus Maceió;1909;AL;Maceió
+UFAL;Escola Técnica de Artes;2006;AL;Maceió
+IFAL;Campus Avançado Maceió Benedito Bentes;2016;AL;Maceió
+IFAL;Campus Maragogi;2011;AL;Maragogi
+IFAL;Campus Marechal Deodoro;1993;AL;Marechal Deodoro
+IFAL;Campus Murici;2011;AL;Murici
+IFAL;Campus Palmeira dos Índios;1993;AL;Palmeira dos Índios
+IFAL;Campus Penedo;2011;AL;Penedo
+IFAL;Campus Piranhas;2011;AL;Piranhas
+IFAL;Campus Rio Largo;2014;AL;Rio Largo
+IFAL;Campus Santana do Ipanema;2013;AL;Santana do Ipanema
+IFAL;Campus São Miguel dos Campos;2013;AL;São Miguel dos Campos
+IFAL;Campus Satuba;1911;AL;Satuba
+IFAL;Campus Viçosa;2014;AL;Viçosa
+IFAM;Campus Coari;2007;AM;Coari
+IFAM;Campus Eirunepé;2015;AM;Eirunepé
+IFAM;Campus Humaitá;2013;AM;Humaitá
+IFAM;Campus Itacoatiara;2015;AM;Itacoatiara
+IFAM;Campus Lábrea;2010;AM;Lábrea
+IFAM;Campus Avançado Manacapuru;2014;AM;Manacapuru
+IFAM;Campus Manaus Centro;1909;AM;Manaus
+IFAM;Campus Manaus Zona Leste;1940;AM;Manaus
+IFAM;Campus Manaus Distrito Industrial;1992;AM;Manaus
+IFAM;Campus Maués;2010;AM;Maués
+IFAM;Campus Parintins;2010;AM;Parintins
+IFAM;Campus Presidente Figueiredo;2010;AM;Presidente Figueiredo
+IFAM;Campus São Gabriel da Cachoeira;1993;AM;São Gabriel da Cachoeira
+IFAM;Campus Tabatinga;2010;AM;Tabatinga
+IFAM;Campus Tefé;2015;AM;Tefé
+IFAM;Campus Avançado Iranduba;2018;AM;Iranduba
+IFAM;Campus Avançado Boca do Acre;2018;AM;Boca do Acre
+IFAP;Campus Laranjal do Jari;2011;AP;Laranjal do Jari
+IFAP;Campus Macapá;2011;AP;Macapá
+IFAP;Campus Avançado Oiapoque;2016;AP;Oiapoque
+IFAP;Campus Porto Grande;2015;AP;Porto Grande
+IFAP;Campus Santana;2014;AP;Santana
+IF Baiano;Campus Alagoinhas;2016;BA;Alagoinhas
+IFBA;Campus Barreiras;1995;BA;Barreiras
+IF Baiano;Campus Bom Jesus da Lapa;2011;BA;Bom Jesus da Lapa
+IFBA;Campus Brumado;2013;BA;Brumado
+IFBA;Campus Camaçari;2008;BA;Camaçari
+IF Baiano;Campus Catu;1965;BA;Catu
+IFBA;Campus Euclides da Cunha;2013;BA;Euclides da Cunha
+IFBA;Campus Eunápolis;1995;BA;Eunápolis
+IFBA;Campus Feira de Santana;2009;BA;Feira de Santana
+IF Baiano;Campus Governador Mangabeira;2011;BA;Governador Mangabeira
+IF Baiano;Campus Guanambi;1993;BA;Guanambi
+IFBA;Campus Ilhéus;2009;BA;Ilhéus
+IFBA;Campus Irecê;2010;BA;Irecê
+IF Baiano;Campus Itaberaba;2016;BA;Itaberaba
+IF Baiano;Campus Itapetinga;2013;BA;Itapetinga
+IFBA;Campus Jacobina;2009;BA;Jacobina
+IFBA;Campus Jequié;2010;BA;Jequié
+IFBA;Campus Juazeiro;2013;BA;Juazeiro
+IFBA;Campus Lauro de Freitas;2016;BA;Lauro de Freitas
+IFBA;Campus Paulo Afonso;2010;BA;Paulo Afonso
+IFBA;Campus Porto Seguro;2008;BA;Porto Seguro
+IFBA;Campus Salvador;1909;BA;Salvador
+IFBA;Polo de Inovação Salvador;2015;BA;Salvador
+IF Baiano;Campus Santa Inês;1993;BA;Santa Inês
+IFBA;Campus Santo Amaro;2006;BA;Santo Amaro
+IFBA;Campus Santo Antônio de Jesus;2016;BA;Santo Antônio de Jesus
+IFBA;Campus Seabra;2010;BA;Seabra
+IF Baiano;Campus Senhor do Bonfim;1993;BA;Senhor do Bonfim
+IF Baiano;Campus Serrinha;2016;BA;Serrinha
+IFBA;Campus Simões Filho;2006;BA;Simões Filho
+IF Baiano;Campus Teixeira de Freitas;2013;BA;Teixeira de Freitas
+IFBA;Campus Avançado Ubaitaba;2014;BA;Ubaitaba
+IF Baiano;Campus Uruçuca;2013;BA;Uruçuca
+IFBA;Campus Valença Tento;1994;BA;Valença
+IF Baiano;Campus Valença;2013;BA;Valença
+IFBA;Campus Vitória da Conquista;1995;BA;Vitória da Conquista
+IF Baiano;Campus Xique-Xique;2016;BA;Xique-Xique
+IFCE;Campus Acaraú;2010;CE;Acaraú
+IFCE;Campus Acopiara;2017;CE;Acopiara
+IFCE;Campus Aracati;2009;CE;Aracati
+IFCE;Campus Baturité;2010;CE;Baturité
+IFCE;Campus Boa Viagem;2016;CE;Boa Viagem
+IFCE;Campus Camocim;2010;CE;Camocim
+IFCE;Campus Canindé;2009;CE;Canindé
+IFCE;Campus Caucaia;2010;CE;Caucaia
+IFCE;Campus Avançado Pecém;2016;CE;Caucaia
+IFCE;Campus Cedro;1995;CE;Cedro
+IFCE;Campus Crateús;2010;CE;Crateús
+IFCE;Campus Crato;1947;CE;Crato
+IFCE;Campus Fortaleza;1909;CE;Fortaleza
+IFCE;Polo de Inovação Fortaleza;2015;CE;Fortaleza
+IFCE;Campus Avançado Guaramiranga;2014;CE;Guaramiranga
+IFCE;Campus Horizonte;2016;CE;Horizonte
+IFCE;Campus Iguatu;1962;CE;Iguatu
+IFCE;Campus Itapipoca;2015;CE;Itapipoca
+IFCE;Campus Jaguaribe;2010;CE;Jaguaribe
+IFCE;Campus Avançado Jaguaruana;2014;CE;Jaguaruana
+IFCE;Campus Juazeiro do Norte;1995;CE;Juazeiro do Norte
+IFCE;Campus Limoeiro do Norte;2008;CE;Limoeiro do Norte
+IFCE;Campus Maracanaú;2006;CE;Maracanaú
+IFCE;Campus Maranguape;2017;CE;Maranguape
+IFCE;Campus Avançado Mombaça;2018;CE;Mombaça
+IFCE;Campus Morada Nova;2010;CE;Morada Nova
+IFCE;Campus Paracuru;2016;CE;Paracuru
+IFCE;Campus Quixadá;2007;CE;Quixadá
+IFCE;Campus Sobral;2008;CE;Sobral
+IFCE;Campus Tabuleiro do Norte;2010;CE;Tabuleiro do Norte
+IFCE;Campus Tau ;2010;CE;Tau 
+IFCE;Campus Tiangu ;2010;CE;Tiangu 
+IFCE;Campus Ubajara;2010;CE;Ubajara
+IFCE;Campus Umirim;2011;CE;Umirim
+IFB;Campus Planaltina;2008;DF;Brasília
+IFB;Campus Gama;2010;DF;Brasília
+IFB;Campus Riacho Fundo;2011;DF;Brasília
+IFB;Campus São Sebastião;2011;DF;Brasília
+IFB;Campus Brasília;2011;DF;Brasília
+IFB;Campus Samambaia;2011;DF;Brasília
+IFB;Campus Taguatinga;2011;DF;Brasília
+IFB;Campus Recanto das Emas;2011;DF;Brasília
+IFB;Campus Estrutural;2013;DF;Brasília
+IFB;Campus Ceilândia;2013;DF;Brasília
+IFES;Campus Alegre;1947;ES;Alegre
+IFES;Campus Aracruz;2008;ES;Aracruz
+IFES;Campus Barra de São Francisco;2015;ES;Barra de São Francisco
+IFES;Campus Cachoeiro de Itapemirim;2004;ES;Cachoeiro de Itapemirim
+IFES;Campus Cariacica;2006;ES;Cariacica
+IFES;Campus Itapina;1947;ES;Colatina
+IFES;Campus Colatina;1992;ES;Colatina
+IFES;Campus Guarapari;2010;ES;Guarapari
+IFES;Campus Ibatiba;2010;ES;Ibatiba
+IFES;Campus Linhares;2008;ES;Linhares
+IFES;Campus Montanha;2014;ES;Montanha
+IFES;Campus Nova Venécia;2008;ES;Nova Venécia
+IFES;Campus Piúma;2010;ES;Piúma
+IFES;Campus Centro Serrano;2015;ES;Santa Maria de Jetib 
+IFES;Campus Santa Teresa;1940;ES;Santa Teresa
+IFES;Campus São Mateus;2006;ES;São Mateus
+IFES;Campus Serra;2000;ES;Serra
+IFES;Campus Venda Nova do Imigrante;2010;ES;Venda Nova do Imigrante
+IFES;Campus Avançado Viana;2014;ES;Viana
+IFES;Campus Vila Velha;2010;ES;Vila Velha
+IFES;Campus Vitória;1909;ES;Vitória
+IFES;Polo de Inovação Vitória;2015;ES;Vitória
+IFG;Campus µguas Lindas de Goiás;2014;GO;µguas Lindas de Goiás
+IFG;Campus Anápolis;2010;GO;Anápolis
+IFG;Campus Aparecida de Goiânia;2012;GO;Aparecida de Goiânia
+IF Goiano;Campus Campos Belos;2015;GO;Campos Belos
+IF Goiano;Campus Avançado Catalão;2014;GO;Catalão
+IF Goiano;Campus Ceres;1993;GO;Ceres
+IF Goiano;Campus Cristalina;2014;GO;Cristalina
+IFG;Campus Formosa;2010;GO;Formosa
+IFG;Campus Goiânia;1909;GO;Goiânia
+IFG;Campus Goiânia Oeste;2014;GO;Goiânia
+IFG;Campus Cidade de Goiás;2012;GO;Goiás
+IF Goiano;Campus Avançado Hidrolândia;2014;GO;Hidrolândia
+IFG;Campus Inhumas;2007;GO;Inhumas
+IF Goiano;Campus Avançado Ipameri;2014;GO;Ipameri
+IF Goiano;Campus Iporá;2010;GO;Iporá
+IFG;Campus Itumbiara;2008;GO;Itumbiara
+IFG;Campus Jataí;1988;GO;Jataí
+IFG;Campus Luziânia;2010;GO;Luziânia
+IF Goiano;Campus Morrinhos;1997;GO;Morrinhos
+IF Goiano;Campus Posse;2014;GO;Posse
+IF Goiano;Campus Rio Verde;1968;GO;Rio Verde
+IF Goiano;Polo de Inovação Rio Verde;2018;GO;Rio Verde
+IFG;Campus Senador Canedo;2014;GO;Senador Canedo
+IF Goiano;Campus Trindade;2015;GO;Trindade
+IFG;Campus Uruaçu;2008;GO;Uruaçu
+IF Goiano;Campus Urutaí;1953;GO;Urutaí
+IFG;Campus Valparaíso de Goiás;2014;GO;Valparaíso de Goiás
+IFMA;Campus Açailândia;2008;MA;Açailândia
+IFMA;Campus Alcântara;2009;MA;Alcântara
+IFMA;Campus Araioses;2015;MA;Araioses
+IFMA;Campus Bacabal;2010;MA;Bacabal
+IFMA;Campus Barra do Corda;2011;MA;Barra do Corda
+IFMA;Campus Barreirinhas;2011;MA;Barreirinhas
+IFMA;Campus Buriticupu;2007;MA;Buriticupu
+IFMA;Campus Avançado Carolina;2014;MA;Carolina
+IFMA;Campus Caxias;2010;MA;Caxias
+IFMA;Campus Codó;1993;MA;Codó
+IFMA;Campus Coelho Neto;2012;MA;Coelho Neto
+IFMA;Campus Grajaú;2013;MA;Grajaú
+IFMA;Campus Imperatriz;1987;MA;Imperatriz
+IFMA;Campus Itapecuru Mirim;2015;MA;Itapecuru Mirim
+IFMA;Campus Pedreiras;2013;MA;Pedreiras
+IFMA;Campus Pinheiro;2010;MA;Pinheiro
+IFMA;Campus Avançado Porto Franco;2014;MA;Porto Franco
+IFMA;Campus Avançado Rosário;2014;MA;Rosário
+IFMA;Campus Santa Inês;2008;MA;Santa Inês
+IFMA;Campus São João dos Patos;2011;MA;São João dos Patos
+IFMA;Campus São José de Ribamar;2014;MA;São José de Ribamar
+IFMA;Campus São Luís Monte Castelo;1909;MA;São Luís
+IFMA;Campus São Luís Maracanã;1947;MA;São Luís
+IFMA;Campus Presidente Dutra;2020;MA;Presidente Dutra
+UFMA;Colégio Universitário;2006;MA;São Luís
+IFMA;Campus São Luís Centro Histórico;2008;MA;São Luís
+IFMA;Campus São Raimundo das Mangabeiras;2011;MA;São Raimundo das Mangabeiras
+IFMA;Campus Timon;2010;MA;Timon
+IFMA;Campus Viana;2014;MA;Viana
+IFMA;Campus Zé Doca;2007;MA;Zé Doca
+IFNMG;Campus Almenara;2010;MG;Almenara
+IFNMG;Campus Araçuaí;2010;MG;Araçuaí
+CEFET-MG;Uned Araxá;1992;MG;Araxá
+IFMG;Campus Avançado Arcos;2016;MG;Arcos
+IFNMG;Campus Arinos;2009;MG;Arinos
+IFMG;Campus Bambuí;1968;MG;Bambuí
+IF Sudeste MG;Campus Barbacena;1910;MG;Barbacena
+CEFET-MG;Unidade Belo Horizonte;1909;MG;Belo Horizonte
+UFMG;Colégio Técnico da UFMG;1969;MG;Belo Horizonte
+IFMG;Campus Betim;2013;MG;Betim
+IF Sudeste MG;Campus Avançado Bom Sucesso;2014;MG;Bom Sucesso
+IFTM;Campus Avançado Campina Verde;2014;MG;Campina Verde
+IFSULDEMINAS;Campus Avançado Carmo de Minas;2014;MG;Carmo de Minas
+IF Sudeste MG;Campus Avançado Cataguases;2014;MG;Cataguases
+IFMG;Campus Congonhas;2006;MG;Congonhas
+IFMG;Campus Avançado Conselheiro Lafaiete;2014;MG;Conselheiro Lafaiete
+CEFET-MG;Uned Contagem;2012;MG;Contagem
+CEFET-MG;Uned Curvelo;2010;MG;Curvelo
+IFNMG;Campus Diamantina;2015;MG;Diamantina
+CEFET-MG;Uned Divinópolis;1987;MG;Divinópolis
+UFV;Centro de Ensino e Desenvolvimento Agrário da UFV;1967;MG;Florestal
+IFMG;Campus Formiga;2008;MG;Formiga
+IFMG;Polo de Inovação Formiga;2015;MG;Formiga
+IFMG;Campus Governador Valadares;2010;MG;Governador Valadares
+IFMG;Campus Ibirité;2018;MG;Ibirité
+IFSULDEMINAS;Campus Inconfidentes;1918;MG;Inconfidentes
+IFMG;Campus Avançado Ipatinga;2014;MG;Ipatinga
+IFMG;Campus Avançado Itabirito;2014;MG;Itabirito
+IFTM;Campus Ituiutaba;2008;MG;Ituiutaba
+IFNMG;Campus Avançado Janaúba;2014;MG;Janaúba
+IFNMG;Campus Januária;1960;MG;Januária
+IF Sudeste MG;Campus Juiz de Fora;1957;MG;Juiz de Fora
+CEFET-MG;Uned Leopoldina;1987;MG;Leopoldina
+IFSULDEMINAS;Campus Machado;1946;MG;Machado
+IFSULDEMINAS;Polo de Inovação Machado;2018;MG;Machado
+IF Sudeste MG;Campus Manhuaçu;2014;MG;Manhuaçu
+IFNMG;Campus Montes Claros;2011;MG;Montes Claros
+IF Sudeste MG;Campus Muriaé;2010;MG;Muriaé
+IFSULDEMINAS;Campus Muzambinho;1948;MG;Muzambinho
+CEFET-MG;Uned Nepomuceno;2007;MG;Nepomuceno
+IFMG;Campus Ouro Branco;2013;MG;Ouro Branco
+IFMG;Campus Ouro Preto;1944;MG;Ouro Preto
+IFTM;Campus Paracatu;2008;MG;Paracatu
+IFSULDEMINAS;Campus Passos;2011;MG;Passos
+IFTM;Campus Patos de Minas;2012;MG;Patos de Minas
+IFTM;Campus Patrocínio;2009;MG;Patrocínio
+IFNMG;Campus Pirapora;2010;MG;Pirapora
+IFMG;Campus Avançado Piumhi;2014;MG;Piumhi
+IFSULDEMINAS;Campus Poços de Caldas;2010;MG;Poços de Caldas
+IFMG;Campus Avançado Ponte Nova;2014;MG;Ponte Nova
+IFNMG;Campus Avançado Porteirinha;2015;MG;Porteirinha
+IFSULDEMINAS;Campus Pouso Alegre;2011;MG;Pouso Alegre
+IFMG;Campus Ribeirão das Neves;2013;MG;Ribeirão das Neves
+IF Sudeste MG;Campus Rio Pomba;1965;MG;Rio Pomba
+IFMG;Campus Sabará;2013;MG;Sabará
+IFNMG;Campus Salinas;1947;MG;Salinas
+IFMG;Campus Santa Luzia;2013;MG;Santa Luzia
+IF Sudeste MG;Campus Santos Dumont;2010;MG;Santos Dumont
+IF Sudeste MG;Campus São João del Rei;2010;MG;São João del Rei
+IFMG;Campus São João Evangelista;1951;MG;São João Evangelista
+IFNMG;Campus Teófilo Otoni;2015;MG;Teófilo Otoni
+CEFET-MG;Uned Timóteo;2007;MG;Timóteo
+IFSULDEMINAS;Campus Avançado Três Corações;2014;MG;Três Corações
+IF Sudeste MG;Campus Avançado Ubá;2014;MG;Ubá
+IFTM;Campus Uberaba;1953;MG;Uberaba
+UFTM;Centro de Formação Especial em Saúde da UFTM;1990;MG;Uberaba
+IFTM;Campus Avançado Uberaba Parque Tecnológico;2014;MG;Uberaba
+IFTM;Campus Uberlândia;1964;MG;Uberlândia
+UFU;Escola Técnica de Saúde da UFU;1979;MG;Uberlândia
+IFTM;Campus Uberlândia Centro;2010;MG;Uberlândia
+CEFET-MG;Uned Varginha;2007;MG;Varginha
+IFMS;Campus Aquidauana;2011;MS;Aquidauana
+IFMS;Campus Campo Grande;2011;MS;Campo Grande
+IFMS;Campus Corumbá;2011;MS;Corumbá
+IFMS;Campus Coxim;2011;MS;Coxim
+IFMS;Campus Dourados;2015;MS;Dourados
+IFMS;Campus Jardim;2015;MS;Jardim
+IFMS;Campus Naviraí;2015;MS;Naviraí
+IFMS;Campus Nova Andradina;2010;MS;Nova Andradina
+IFMS;Campus Ponta Porã;2011;MS;Ponta Porã
+IFMS;Campus Três Lagoas;2011;MS;Três Lagoas
+IFMT;Campus Alta Floresta;2014;MT;Alta Floresta
+IFMT;Campus Barra do Garças;2010;MT;Barra do Garças
+IFMT;Campus Cáceres;1980;MT;Cáceres
+IFMT;Campus Campo Novo do Parecis;2008;MT;Campo Novo do Parecis
+IFMT;Campus Confresa;2010;MT;Confresa
+IFMT;Campus Cuiabá;1909;MT;Cuiabá
+IFMT;Campus Cuiabá Bela Vista;2006;MT;Cuiabá
+IFMT;Campus Avançado Diamantino;2014;MT;Diamantino
+IFMT;Campus Avançado Guarantã do Norte;2016;MT;Guarantã do Norte
+IFMT;Campus Juína;2009;MT;Juína
+IFMT;Campus Avançado Lucas do Rio Verde;2016;MT;Lucas do Rio Verde
+IFMT;Campus Pontes e Lacerda;2008;MT;Pontes e Lacerda
+IFMT;Campus Primavera do Leste;2013;MT;Primavera do Leste
+IFMT;Campus Rondonópolis;2010;MT;Rondonópolis
+IFMT;Campus São Vicente;1943;MT;Santo Antônio do Leverger
+IFMT;Campus Avançado Sinop;2016;MT;Sinop
+IFMT;Campus Sorriso;2011;MT;Sorriso
+IFMT;Campus Avançado Tangará da Serra;2014;MT;Tangará da Serra
+IFMT;Campus Várzea Grande;2013;MT;Várzea Grande
+IFPA;Campus Abaetetuba;2008;PA;Abaetetuba
+IFPA;Campus Altamira;1987;PA;Altamira
+IFPA;Campus Ananindeua;2015;PA;Ananindeua
+IFPA;Campus Belém;1909;PA;Belém
+UFPA;Escola de Teatro e Dança da UFPA;1962;PA;Belém
+UFPA;Escola de Música da UFPA;1964;PA;Belém
+IFPA;Campus Bragança;2008;PA;Bragança
+IFPA;Campus Breves;2010;PA;Breves
+IFPA;Campus Cametá;2015;PA;Cametá
+IFPA;Campus Castanhal;1921;PA;Castanhal
+IFPA;Campus Conceição do Araguaia;2008;PA;Conceição do Araguaia
+IFPA;Campus Itaituba;2010;PA;Itaituba
+IFPA;Campus Marabá Industrial;1987;PA;Marabá
+IFPA;Campus Marabá Rural;2011;PA;Marabá
+IFPA;Campus Óbidos;2013;PA;Óbidos
+IFPA;Campus Paragominas;2015;PA;Paragominas
+IFPA;Campus Parauapebas;2014;PA;Parauapebas
+IFPA;Campus Santarém;2010;PA;Santarém
+IFPA;Campus Tucuruí;1987;PA;Tucuruí
+IFPA;Campus Avançado Vigia;2014;PA;Vigia
+IFPB;Campus Avançado Areia;2020;PB;Areia
+UFPB;Colégio Agrícola Vidal de Negreiros da UFPB;1921;PB;Bananeiras
+IFPB;Campus Cabedelo;2011;PB;Cabedelo
+IFPB;Campus Avançado Cabedelo Centro;2014;PB;Cabedelo
+UFCG;Escola Técnica de Saúde de Cajazeiras da UFCG;1979;PB;Cajazeiras
+IFPB;Campus Cajazeiras;1994;PB;Cajazeiras
+IFPB;Campus Campina Grande;2007;PB;Campina Grande
+IFPB;Campus Catolé do Rocha;2012;PB;Catolé do Rocha
+IFPB;Campus Esperança;2015;PB;Esperança
+IFPB;Campus Guarabira;2013;PB;Guarabira
+IFPB;Campus Itabaiana;2015;PB;Itabaiana
+IFPB;Campus Itaporanga;2015;PB;Itaporanga
+IFPB;Campus João Pessoa;1909;PB;João Pessoa
+UFPB;Escola Técnica de Saúde da UFPB;1959;PB;João Pessoa
+IFPB;Campus Avançado João Pessoa Mangabeira;2016;PB;João Pessoa
+IFPB;Polo de Inovação João Pessoa;2018;PB;João Pessoa
+IFPB;Campus Monteiro;2009;PB;Monteiro
+IFPB;Campus Patos;2011;PB;Patos
+IFPB;Campus Avançado Pedras de Fogo;2020;PB;Pedras de Fogo
+IFPB;Campus Picuí;2009;PB;Picuí
+IFPB;Campus Princesa Isabel;2011;PB;Princesa Isabel
+IFPB;Campus Santa Luzia;2018;PB;Santa Luzia
+IFPB;Campus Santa Rita;2015;PB;Santa Rita
+IFPB;Campus Avançado Soledade;2016;PB;Soledade
+IFPB;Campus Sousa;1946;PB;Sousa
+IFPE;Campus Abreu e Lima;2017;PE;Abreu e Lima
+IFPE;Campus Afogados da Ingazeira;2010;PE;Afogados da Ingazeira
+IFPE;Campus Barreiros;1923;PE;Barreiros
+IFPE;Campus Belo Jardim;1961;PE;Belo Jardim
+IFPE;Campus Cabo de Santo Agostinho;2013;PE;Cabo de Santo Agostinho
+IFPE;Campus Caruaru;2010;PE;Caruaru
+IF Sertão-PE;Campus Floresta;2008;PE;Floresta
+IFPE;Campus Garanhuns;2011;PE;Garanhuns
+IFPE;Campus Igarassu;2015;PE;Igarassu
+IFPE;Campus Ipojuca;2007;PE;Ipojuca
+IFPE;Campus Jaboatão dos Guararapes;2013;PE;Jaboatão dos Guararapes
+IFPE;Campus Olinda;2015;PE;Olinda
+IF Sertão-PE;Campus Ouricuri;2010;PE;Ouricuri
+IFPE;Campus Palmares;2014;PE;Palmares
+IFPE;Campus Paulista;2015;PE;Paulista
+IFPE;Campus Pesqueira;1992;PE;Pesqueira
+IF Sertão-PE;Campus Petrolina Zona Rural;1970;PE;Petrolina
+IF Sertão-PE;Campus Petrolina;1988;PE;Petrolina
+IFPE;Campus Recife;1909;PE;Recife
+IF Sertão-PE;Campus Salgueiro;2010;PE;Salgueiro
+IF Sertão-PE;Campus Santa Maria da Boa Vista;2014;PE;Santa Maria da Boa Vista
+UFRPE;Colégio Agrícola Dom Agostinho Ikas da UFRPE;1936;PE;São Lourenço da Mata
+IF Sertão-PE;Campus Serra Talhada;2014;PE;Serra Talhada
+IFPE;Campus Vitória de Santo Antão;1967;PE;Vitória de Santo Antão
+IFPI;Campus Angical do Piauí;2010;PI;Angical do Piauí
+UFPI;Colégio Técnico de Bom Jesus da UFPI;1970;PI;Bom Jesus
+IFPI;Campus Campo Maior;2014;PI;Campo Maior
+IFPI;Campus Cocal;2014;PI;Cocal
+IFPI;Campus Corrente;2010;PI;Corrente
+UFPI;Colégio Técnico de Floriano da UFPI;1979;PI;Floriano
+IFPI;Campus Floriano;1994;PI;Floriano
+IFPI;Campus Avançado José de Freitas;2015;PI;José de Freitas
+IFPI;Campus Oeiras;2012;PI;Oeiras
+IFPI;Campus Parnaíba;2007;PI;Parnaíba
+IFPI;Campus Paulistana;2010;PI;Paulistana
+IFPI;Campus Pedro II;2012;PI;Pedro II
+IFPI;Campus Picos;2007;PI;Picos
+IFPI;Campus Avançado PIO IX;2014;PI;Pio IX
+IFPI;Campus Piripiri;2010;PI;Piripiri
+IFPI;Campus São João do Piauí;2012;PI;São João do Piauí
+IFPI;Campus São Raimundo Nonato;2010;PI;São Raimundo Nonato
+IFPI;Campus Teresina Central;1909;PI;Teresina
+UFPI;Colégio Técnico de Teresina da UFPI;1954;PI;Teresina
+IFPI;Campus Teresina Zona Sul;2008;PI;Teresina
+IFPI;Campus Avançado Teresina Dirceu Arcoverde;2014;PI;Teresina
+IFPI;Campus Uruçuí;2010;PI;Uruçuí
+IFPI;Campus Valença do Piauí;2014;PI;Valença do Piauí
+UTFPR;Campus Apucarana;2007;PR;Apucarana
+IFPR;Campus Assis Chateaubriand;2013;PR;Assis Chateaubriand
+IFPR;Campus Avançado Astorga;2014;PR;Astorga
+IFPR;Campus Avançado Barracão;2014;PR;Barracão
+IFPR;Campus Campo Largo;2013;PR;Campo Largo
+UTFPR;Campus Campo Mourão;1995;PR;Campo Mourão
+IFPR;Campus Capanema;2014;PR;Capanema
+IFPR;Campus Cascavel;2014;PR;Cascavel
+IFPR;Campus Colombo;2015;PR;Colombo
+UTFPR;Campus Cornélio Procópio;1993;PR;Cornélio Procópio
+IFPR;Campus Avançado Coronel Vivida;2014;PR;Coronel Vivida
+UTFPR;Campus Curitiba U;1909;PR;Curitiba
+IFPR;Campus Curitiba;1946;PR;Curitiba
+UTFPR;Campus Dois Vizinhos;1995;PR;Dois Vizinhos
+IFPR;Campus Foz do Iguaçu;2010;PR;Foz do Iguaçu
+UTFPR;Campus Francisco Beltrão;2007;PR;Francisco Beltrão
+IFPR;Campus Avançado Goioerê;2014;PR;Goioerê
+IFPR;Campus Irati;2010;PR;Irati
+IFPR;Campus Ivaiporã;2013;PR;Ivaiporã
+IFPR;Campus Jacarezinho;2010;PR;Jacarezinho
+IFPR;Campus Jaguariaíva;2014;PR;Jaguariaíva
+UTFPR;Campus Londrina U;2007;PR;Londrina
+IFPR;Campus Londrina;2009;PR;Londrina
+UTFPR;Campus Medianeira;1987;PR;Medianeira
+IFPR;Campus Palmas;2010;PR;Palmas
+IFPR;Campus Paranaguá;2008;PR;Paranaguá
+IFPR;Campus Paranavaí;2010;PR;Paranavaí
+UTFPR;Campus Pato Branco;1992;PR;Pato Branco
+IFPR;Campus Pinhais;2014;PR;Pinhais
+IFPR;Campus Pitanga;2014;PR;Pitanga
+UTFPR;Campus Ponta Grossa;1992;PR;Ponta Grossa
+IFPR;Campus Avançado Quedas do Iguaçu;2014;PR;Quedas do Iguaçu
+IFPR;Campus Telêmaco Borba;2010;PR;Telêmaco Borba
+UTFPR;Campus Toledo;2007;PR;Toledo
+IFPR;Campus Umuarama;2010;PR;Umuarama
+IFPR;Campus União da Vitória;2014;PR;União da Vitória
+IFPR;Campus Avançado Arapongas;2018;PR;Arapongas
+CEFET-RJ;Uned Angra dos Reis;2010;RJ;Angra dos Reis
+IFRJ;Campus Arraial do Cabo;2006;RJ;Arraial do Cabo
+IFRJ;Campus Belford Roxo;2018;RJ;Belford Roxo
+IFF;Campus Bom Jesus do Itabapoana;1974;RJ;Bom Jesus do Itabapoana
+IFF;Campus Cabo Frio;2009;RJ;Cabo Frio
+IFF;Campus Avançado Cambuci;2014;RJ;Cambuci
+IFF;Campus Campos Centro;1909;RJ;Campos dos Goytacazes
+IFF;Campus Campos Guarus;2007;RJ;Campos dos Goytacazes
+IFF;Polo de Inovação Campos dos Goytacazes;2015;RJ;Campos dos Goytacazes
+IFRJ;Campus Duque de Caxias;2009;RJ;Duque de Caxias
+CPII;Campus Duque de Caxias CP;2012;RJ;Duque de Caxias
+IFRJ;Campus Engenheiro Paulo de Frontin;2009;RJ;Engenheiro Paulo de Frontin
+CEFET-RJ;Uned Itaguaí;2008;RJ;Itaguaí
+IFF;Campus Itaperuna;2009;RJ;Itaperuna
+IFF;Campus Macaé;1992;RJ;Macaé
+IFF;Campus Avançado Maricá;2014;RJ;Maricá
+IFRJ;Campus Avançado Mesquita;2015;RJ;Mesquita
+IFRJ;Campus Nilópolis;1942;RJ;Nilópolis
+CPII;Campus Niterói;2012;RJ;Niterói
+IFRJ;Campus Niterói;2018;RJ;Niterói
+CEFET-RJ;Uned Nova Friburgo;2008;RJ;Nova Friburgo
+CEFET-RJ;Uned Nova Iguaçu;2003;RJ;Nova Iguaçu
+IFRJ;Campus Paracambi;2006;RJ;Paracambi
+CEFET-RJ;Uned Petrópolis;2008;RJ;Petrópolis
+IFRJ;Campus Pinheiral;1934;RJ;Pinheiral
+IFF;Campus Quissamã;2006;RJ;Quissamã
+IFRJ;Campus Avançado Resende;2016;RJ;Resende
+CEFET-RJ;Unidade Maracanã;1915;RJ;Rio de Janeiro
+IFRJ;Campus Rio de Janeiro;1999;RJ;Rio de Janeiro
+CEFET-RJ;Uned Maria da Graça;2006;RJ;Rio de Janeiro
+IFRJ;Campus Realengo;2009;RJ;Rio de Janeiro
+CPII;Campus Humaitá II;2012;RJ;Rio de Janeiro
+CPII;Campus Humaitá I;2012;RJ;Rio de Janeiro
+CPII;Campus Engenho Novo I;2012;RJ;Rio de Janeiro
+CPII;Campus Engenho Novo II;2012;RJ;Rio de Janeiro
+CPII;Campus São Cristóvão III;2012;RJ;Rio de Janeiro
+CPII;Campus Realengo I;2012;RJ;Rio de Janeiro
+CPII;Campus Realengo II;2012;RJ;Rio de Janeiro
+CPII;Campus São Cristovão I;2012;RJ;Rio de Janeiro
+CPII;Campus São Cristóvão II;2012;RJ;Rio de Janeiro
+CPII;Campus Tijuca I;2012;RJ;Rio de Janeiro
+CPII;Campus Centro;2012;RJ;Rio de Janeiro
+CPII;Campus Tijuca II;2012;RJ;Rio de Janeiro
+IFF;Campus Santo Antônio de P dua;2012;RJ;Santo Antônio de P dua
+IFRJ;Campus São Gonçalo;2009;RJ;São Gonçalo
+IFF;Campus Avançado São João da Barra;2014;RJ;São João da Barra
+IFRJ;Campus São João de Meriti;2018;RJ;São João de Meriti
+UFRRJ;Colégio Técnico da UFRRJ;1954;RJ;Seropédica
+CEFET-RJ;Uned Valença;2010;RJ;Valença
+IFRJ;Campus Volta Redonda;2009;RJ;Volta Redonda
+IFRN;Campus Apodi;2009;RN;Apodi
+IFRN;Campus Caicó;2009;RN;Caicó
+IFRN;Campus Canguaretama;2013;RN;Canguaretama
+IFRN;Campus Ceará-Mirim;2013;RN;Ceará-Mirim
+IFRN;Campus Currais Novos;2006;RN;Currais Novos
+IFRN;Campus Ipanguaçu;2006;RN;Ipanguaçu
+IFRN;Campus João Câmara;2009;RN;João Câmara
+IFRN;Campus Avançado Jucurutu;2018;RN;Jucurutu
+IFRN;Campus Avançado Lajes;2014;RN;Lajes
+UFRN;Escola Agrícola de Jundiaí da UFRN;1967;RN;Macaíba
+IFRN;Campus Macau;2009;RN;Macau
+IFRN;Campus Mossoró;1994;RN;Mossoró
+IFRN;Campus Natal Central;1909;RN;Natal
+UFRN;Escola de Música da UFRN;1962;RN;Natal
+UFRN;Escola de Saúde da UFRN;1962;RN;Natal
+IFRN;Campus Natal Zona Norte;2006;RN;Natal
+IFRN;Campus Natal Cidade Alta;2009;RN;Natal
+IFRN;Campus Nova Cruz;2009;RN;Nova Cruz
+IFRN;Campus Avançado Parelhas;2014;RN;Parelhas
+IFRN;Campus Parnamirim;2008;RN;Parnamirim
+IFRN;Campus Pau dos Ferros;2009;RN;Pau dos Ferros
+IFRN;Campus Santa Cruz;2009;RN;Santa Cruz
+IFRN;Campus São Gonçalo do Amarante;2011;RN;São Gonçalo do Amarante
+IFRN;Campus São Paulo do Potengi;2013;RN;São Paulo do Potengi
+IFRN;Campus Avançado Natal Zona Leste;2018;RN;Natal
+IFRO;Campus Ariquemes;2013;RO;Ariquemes
+IFRO;Campus Cacoal;2010;RO;Cacoal
+IFRO;Campus Colorado do Oeste;1993;RO;Colorado do Oeste
+IFRO;Campus Guajará-Mirim;2015;RO;Guajará-Mirim
+IFRO;Campus Jaru;2016;RO;Jaru
+IFRO;Campus Ji-Paraná;2009;RO;Ji-Paraná
+IFRO;Campus Porto Velho Zona Norte;2010;RO;Porto Velho
+IFRO;Campus Porto Velho Calama;2011;RO;Porto Velho
+IFRO;Campus Vilhena;2010;RO;Vilhena
+IFRO;Campus Avançado de São Miguel do Guaporé;2018;RO;São Miguel do Guaporé
+IFRR;Campus Amajari;2011;RR;Amajari
+IFRR;Campus Boa Vista;1993;RR;Boa Vista
+UFRR;Escola Agrotécnica;2006;RR;Boa Vista
+IFRR;Campus Boa Vista Zona Oeste;2013;RR;Boa Vista
+IFRR;Campus Avançado Bonfim;2014;RR;Bonfim
+IFRR;Campus Novo Paraíso;2007;RR;Caracaraí
+IF Farroupilha;Campus Alegrete;1964;RS;Alegrete
+IFRS;Campus Alvorada;2014;RS;Alvorada
+IFSul;Campus Bagé;2011;RS;Bagé
+IFRS;Campus Bento Gonçalves;1959;RS;Bento Gonçalves
+IFSul;Campus Camaquã;2010;RS;Camaquã
+IFRS;Campus Canoas;2010;RS;Canoas
+IFRS;Campus Caxias do Sul;2011;RS;Caxias do Sul
+IFSul;Campus Charqueadas;2006;RS;Charqueadas
+IFRS;Campus Erechim;2010;RS;Erechim
+IFRS;Campus Farroupilha;2009;RS;Farroupilha
+IFRS;Campus Feliz;2008;RS;Feliz
+IF Farroupilha;Campus Frederico Westphalen;1957;RS;Frederico Westphalen
+IFSul;Campus Gravataí;2013;RS;Gravataí
+IFRS;Campus Ibirubá;2010;RS;Ibirubá
+IFSul;Campus Avançado Jaguarão;2014;RS;Jaguarão
+IF Farroupilha;Campus Jaguari;2012;RS;Jaguari
+IF Farroupilha;Campus Júlio de Castilhos;2008;RS;Júlio de Castilhos
+IFSul;Campus Lajeado;2013;RS;Lajeado
+IFSul;Campus Avançado Novo Hamburgo;2015;RS;Novo Hamburgo
+IFRS;Campus Osório;2012;RS;Osório
+IF Farroupilha;Campus Panambi;2010;RS;Panambi
+IFSul;Campus Passo Fundo;2007;RS;Passo Fundo
+IFSul;Campus Pelotas Visconde da Graça;1921;RS;Pelotas
+IFSul;Campus Pelotas;1942;RS;Pelotas
+IFRS;Campus Porto Alegre;1946;RS;Porto Alegre
+IFRS;Campus Porto Alegre Restinga;2012;RS;Porto Alegre
+IFRS;Campus Rio Grande;1967;RS;Rio Grande
+IFRS;Campus Rolante;2014;RS;Rolante
+UFSM;Colégio Politécnico da Universidade Federal Santa Maria;1959;RS;Santa Maria
+UFSM;Colégio Técnico Industrial da Universidade Federal de Santa Maria;1967;RS;Santa Maria
+IF Farroupilha;Campus Santa Rosa;2010;RS;Santa Rosa
+IFSul;Campus Sant'Ana do Livramento;2012;RS;Santana do Livramento
+IF Farroupilha;Campus Santo Ângelo;2014;RS;Santo Ângelo
+IF Farroupilha;Campus Santo Augusto;2008;RS;Santo Augusto
+IF Farroupilha;Campus São Borja;2011;RS;São Borja
+IF Farroupilha;Campus São Vicente do Sul;1954;RS;São Vicente do Sul
+IFSul;Campus Sapiranga;2013;RS;Sapiranga
+IFSul;Campus Sapucaia do Sul;1996;RS;Sapucaia do Sul
+IFRS;Campus Sertão;1959;RS;Sertão
+IF Farroupilha;Campus Avançado Uruguaiana;2014;RS;Uruguaiana
+IFRS;Campus Vacaria;2014;RS;Vacaria
+IFSul;Campus Venâncio Aires;2011;RS;Venâncio Aires
+IFRS;Campus Avançado Veranópolis;2014;RS;Veranópolis
+IFRS;Campus Viamão;2015;RS;Viamão
+IFC;Campus Avançado Abelardo Luz;2014;SC;Abelardo Luz
+IFC;Campus Araquari;1954;SC;Araquari
+IFSC;Campus Araranguá;2008;SC;Araranguá
+IFC;Campus Blumenau;2012;SC;Blumenau
+IFC;Campus Brusque;2013;SC;Brusque
+IFSC;Campus Caçador;2010;SC;Caçador
+IFC;Campus Camboriú;1953;SC;Camboriú
+IFSC;Campus Canoinhas;2010;SC;Canoinhas
+IFSC;Campus Chapecó;2006;SC;Chapecó
+IFC;Campus Concórdia;1967;SC;Concórdia
+IFSC;Campus Criciúma;2010;SC;Criciúma
+IFSC;Campus Florianópolis;1909;SC;Florianópolis
+IFSC;Campus Florianópolis Continente;2006;SC;Florianópolis
+IFSC;Polo de Inovação Florianópolis;2018;SC;Florianópolis
+IFC;Campus Fraiburgo;2012;SC;Fraiburgo
+IFSC;Campus Garopaba;2011;SC;Garopaba
+IFSC;Campus Gaspar;2010;SC;Gaspar
+IFC;Campus Ibirama;2010;SC;Ibirama
+IFSC;Campus Itajaí;2011;SC;Itajaí
+IFSC;Campus Jaraguá do Sul;1994;SC;Jaraguá do Sul
+IFSC;Campus Jaraguá do Sul Rau;2010;SC;Jaraguá do Sul
+IFSC;Campus Joinville;2006;SC;Joinville
+IFSC;Campus Lages;2010;SC;Lages
+IFC;Campus Luzerna;2010;SC;Luzerna
+IFSC;Campus Palhoça;2011;SC;Palhoça
+IFC;Campus Rio do Sul;1993;SC;Rio do Sul
+IFC;Campus Santa Rosa do Sul;1994;SC;Santa Rosa do Sul
+IFC;Campus São Bento do Sul;2016;SC;São Bento do Sul
+IFSC;Campus São Carlos;2013;SC;São Carlos
+IFC;Campus São Francisco do Sul;2012;SC;São Francisco do Sul
+IFSC;Campus São José;1997;SC;São José
+IFSC;Campus Avançado São Lourenço do Oeste;2014;SC;São Lourenço do Oeste
+IFSC;Campus São Miguel do Oeste;2010;SC;São Miguel do Oeste
+IFC;Campus Avançado Sombrio;2014;SC;Sombrio
+IFSC;Campus Tubarão;2013;SC;Tubarão
+IFSC;Campus Urupema;2010;SC;Urupema
+IFC;Campus Videira;2010;SC;Videira
+IFSC;Campus Xanxerê;2009;SC;Xanxerê
+IFS;Campus Aracaju;1909;SE;Aracaju
+IFS;Campus Estância;2011;SE;Estância
+IFS;Campus Itabaiana;2011;SE;Itabaiana
+IFS;Campus Lagarto;1994;SE;Lagarto
+IFS;Campus Nossa Senhora da Glória;2011;SE;Nossa Senhora da Glória
+IFS;Campus Nossa Senhora do Socorro;2016;SE;Nossa Senhora do Socorro
+IFS;Campus Poço Redondo;2020;SE;Poço Redondo
+IFS;Campus Propriá;2014;SE;Propriá
+IFS;Campus São Cristóvão;1946;SE;São Cristóvão
+IFS;Campus Tobias Barreto;2014;SE;Tobias Barreto
+IFSP;Campus Araraquara;2010;SP;Araraquara
+IFSP;Campus Avaré;2012;SP;Avaré
+IFSP;Campus Barretos;2010;SP;Barretos
+IFSP;Campus Birigui;2010;SP;Birigui
+IFSP;Campus Boituva;2009;SP;Boituva
+IFSP;Campus Bragança Paulista;2007;SP;Bragança Paulista
+IFSP;Campus Campinas;2012;SP;Campinas
+IFSP;Campus Campos do Jordão;2009;SP;Campos do Jordão
+IFSP;Campus Capivari;2010;SP;Capivari
+IFSP;Campus Caraguatatuba;2007;SP;Caraguatatuba
+IFSP;Campus Catanduva;2010;SP;Catanduva
+IFSP;Campus Cubatão;1987;SP;Cubatão
+IFSP;Campus Guarulhos;2005;SP;Guarulhos
+IFSP;Campus Hortolândia;2011;SP;Hortolândia
+IFSP;Campus Avançado Ilha Solteira;2014;SP;Ilha Solteira
+IFSP;Campus Itapetininga;2010;SP;Itapetininga
+IFSP;Campus Itaquaquecetuba;2016;SP;Itaquaquecetuba
+IFSP;Campus Jacareí;2014;SP;Jacareí
+IFSP;Campus Avançado Jundiaí;2015;SP;Jundiaí
+IFSP;Campus Matão;2011;SP;Matão
+IFSP;Campus Piracicaba;2010;SP;Piracicaba
+IFSP;Campus Presidente Epitácio;2010;SP;Presidente Epitácio
+IFSP;Campus Registro;2012;SP;Registro
+IFSP;Campus Salto;2007;SP;Salto
+IFSP;Campus São Carlos;2011;SP;São Carlos
+IFSP;Campus São João da Boa Vista;2007;SP;São João da Boa Vista
+IFSP;Campus São José do Rio Preto;2017;SP;São José do Rio Preto
+IFSP;Campus São José dos Campos;2012;SP;São José dos Campos
+IFSP;Campus Avançado São Paulo - São Miguel;2018;SP;São Miguel
+IFSP;Campus São Paulo;1909;SP;São Paulo
+IFSP;Campus São Paulo Pirituba;2016;SP;São Paulo
+IFSP;Campus São Roque;2008;SP;São Roque
+IFSP;Campus Sertãozinho;1998;SP;Sertãozinho
+IFSP;Campus Sorocaba;2015;SP;Sorocaba
+IFSP;Campus Suzano;2010;SP;Suzano
+IFSP;Campus Avançado Tupã;2015;SP;Tupã
+IFSP;Campus Votuporanga;2010;SP;Votuporanga
+IFTO;Campus Araguaína;2009;TO;Araguaína
+IFTO;Campus Araguatins;1988;TO;Araguatins
+IFTO;Campus Colinas do Tocantins;2014;TO;Colinas do Tocantins
+IFTO;Campus Dianópolis;2012;TO;Dianópolis
+IFTO;Campus Avançado Formoso do Araguaia;2014;TO;Formoso do Araguaia
+IFTO;Campus Gurupi;2010;TO;Gurupi
+IFTO;Campus Avançado Lagoa da Confusão;2014;TO;Lagoa da Confusão
+IFTO;Campus Palmas;1993;TO;Palmas
+IFTO;Campus Paraíso do Tocantins;2007;TO;Paraíso do Tocantins
+IFTO;Campus Avançado Pedro Afonso;2014;TO;Pedro Afonso
+IFTO;Campus Porto Nacional;2010;TO;Porto Nacional
